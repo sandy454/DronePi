@@ -1,0 +1,9 @@
+int32 pos_x
+int32 pos_y
+int32 pos_z
+
+---
+int32 fb_x
+int32 fd_y
+int32 fd_z
+
